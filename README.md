@@ -53,6 +53,10 @@ Our tool automatically **recommends and adds products to a user's cart** based o
   - Reduces store time and budget overspend.
 
 ---
+## 🏗️ Architecture Overview
+
+![image](flowchart.png)
+
 
 ## 🔮 Future Enhancements
 
