@@ -1,0 +1,7 @@
+.env
+.venv
+.venv/
+./vin-trial
+.vin-trial
+/venv
+.DS_STORE
